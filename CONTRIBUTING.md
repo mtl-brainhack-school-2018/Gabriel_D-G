@@ -9,4 +9,4 @@
 
 * Neurobiology, psychiatry
 * Basics of Matlab, python and java
-* 
+* Registration of structural images
