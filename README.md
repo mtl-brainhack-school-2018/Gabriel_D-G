@@ -4,13 +4,14 @@ This year I just finished my undergraduate studies in neuroscience and I am now 
 
 # Next step
 
-To study functional connectivity in this model, I will need to develop appropriate protocols for scan acquisition and anesthesia induction and maintenance, and in particular learn how to appropriately conduct pre-processing of fMRI data and subsequent analysis of functional connectivity.
+To study functional connectivity in this model, I will need to develop appropriate protocols for scan acquisition, anesthesia induction and maintenance, and in particular learn how to appropriately conduct pre-processing of fMRI data and subsequent analysis of functional connectivity.
 
 # Specific learning objectives
 
 At brainhack school, I intend to learn to apply fMRI preprocessing pipelines to resting-state fMRI datasets and conduct functional connectivity analysis. More specifically, this includes:
-* Learning to implement NIAK, understand its documentation, and maybe another preprocessing pipeline (FSL, fmriprep) on a open source BIDS dataset of rs-fmri
+* Learn to use and build containers using Docker and run containerized applications with Singularity on Compute Canada
+* Learning to implement NIAK, understand its documentation, and then maybe learn Nipype as well for more a more flexible access to preprocessing tools
 * Learn the good practice of QC procedures
-* Learn to conduct independent component analysis (ICA) and seed-based correlation analysis to map the default mode network
-* Practice my coding skills for data visualization, manipulation, and also learn to use Docker for containerized applications
+* Learn Nilearn for data visualization, manipulation of fMRI data in python, and conducting functional connectivity analysis
+* Learn to conduct independent component analysis (ICA) and seed-based correlation analysis to map the default mode network on a standard rs-fMRI dataset
 * If I have the time, try to conduct a similar analysis on an online dataset of fMRI data from a mouse study
